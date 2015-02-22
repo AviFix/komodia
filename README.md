@@ -5,6 +5,8 @@ w00d
 
 browsable mirror of komodia.com: http://komodia.fishy.website/
 
+join irc://irc.ringoflightning.net/#kekmodia for Komodia related discussion
+
 #### sources and binaries:
 
 * https://github.com/cryptostorm/komodia/raw/master/www.komodia.com/KomodiaAhoCorasick.zip
